@@ -1,0 +1,21 @@
+#header-titulo {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#header-subtitulo {
+    font-size: 16px;
+}
+
+QPushButton {
+    padding: 10px;
+}
+
+#msg-area #title {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#msg-area #msg {
+    font-size: 12px;
+}
